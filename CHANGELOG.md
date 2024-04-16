@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.0.231 (2024-04-16)
+
+## What's Changed
+* feat(assistants): Add user usage update and pricing calculation to ITO assistant by @StanGirard in https://github.com/QuivrHQ/quivr/pull/2433
+* feat(assistant): improve prompt summary by @StanGirard in https://github.com/QuivrHQ/quivr/pull/2435
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.230...v0.0.231
+
 ## 0.0.230 (2024-04-16)
 
 ## What's Changed
